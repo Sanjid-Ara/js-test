@@ -1,0 +1,27 @@
+
+body{
+    background-color: green;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    background-color: green;
+    align-items: center;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.container h1{
+    color: white;
+    text-decoration: underline;
+    padding-bottom: 30px;
+}
+.container img{
+    width: 200px;
+    height: 200px;
+    padding-bottom: 50px;
+}
+.container button{
+    padding: 10px 20px;
+}
